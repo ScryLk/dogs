@@ -1,0 +1,29 @@
+.Tittle {
+    color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 48px;
+    letter-spacing: 10px;
+    text-align: right;
+    text-transform: uppercase;
+
+}
+
+.Subtittle {
+    color: brown;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    color: rgb(49, 160, 123);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Dogs {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Cats {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
